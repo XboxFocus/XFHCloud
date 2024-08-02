@@ -1,0 +1,28 @@
+// List of URLs for XFH (thanks Microsoft for changing the GWG deals URL so many times)
+
+// 0: Google Sheets XPA data
+0 | https://docs.google.com/spreadsheets/d/e/2PACX-1vQNMfFCzh3cr1wjEgojbLDBqApRz_uUe1Xrn8G7z3gWbpAxqMQl2NuJ9HhAfrVm4pP-voybGg5xSYhX/pubhtml?gid=0&single=true
+
+// 1: GitHub game data
+0 | https://raw.githubusercontent.com/XboxFocus/xboxfocus.github.io/main/data_cache.txt
+
+// 2: GitHub app data
+0 | https://raw.githubusercontent.com/XboxFocus/xboxfocus.github.io/main/app_cache.txt
+
+// 3: GitHub list data
+0 | https://raw.githubusercontent.com/XboxFocus/HubLists/main/main.txt
+
+// 4: PC deals data (skipitems should be either 0 or 200x)
+0 | https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/Deal?Market=it&Language=it&ItemTypes=Game&deviceFamily=Windows.Desktop&count=2000&skipitems=
+
+// 5: GWG deals data
+2 | https://www.xbox.com/en-US/xbox-game-pass/deals/JS/deals-bigids.js
+
+// 6: XGP recently added data
+0 | https://catalog.gamepass.com/sigls/v2?id=3fdd7f57-7092-4b65-bd40-5a9dac1b2b84&language=it-it&market=IT
+
+// 7: XGP leaving soon data
+0 | https://catalog.gamepass.com/sigls/v2?id=393f05bf-e596-4ef6-9487-6d4fa0eab987&language=it-it&market=IT
+
+// 8: XB new games data
+0 | https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/New?Market=it&Language=it&ItemTypes=Game&deviceFamily=Windows.Xbox&count=200
